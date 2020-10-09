@@ -1,4 +1,4 @@
-# Vanilla js search/gilter
+# Vanilla js search/filter
 
 Simple search and filter with regex.
 
